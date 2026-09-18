@@ -1,0 +1,14 @@
+,Rank,R2,RMSE,MAE,Fit Time (s)
+Random Forest Regressor,1,0.7584,810787.0,311941.0,28.79
+Random Forest Regressor (tuned),2,0.7164,878359.0,306727.0,367.38
+K-Nearest Neighbors Regressor,3,0.6528,971908.0,345042.0,0.48
+Support Vector Regressor,4,0.6519,973109.0,292291.0,12.41
+Gradient Boosting Regressor,5,0.6301,1003154.0,367557.0,3.32
+Gradient Boosting Regressor (tuned),6,0.627,1007276.0,350960.0,53.44
+Decision Tree Regressor,7,0.5206,1141975.0,418848.0,0.74
+Polynomial Regression (deg=2),8,0.5066,1158543.0,468484.0,0.14
+Ridge Regression (tuned),9,0.4964,1170449.0,491493.0,1.13
+Ridge Regression,10,0.4963,1170634.0,488096.0,0.13
+Lasso Regression,11,0.4956,1171446.0,483873.0,3.31
+Linear Regression,12,0.4956,1171446.0,483887.0,0.81
+ElasticNet Regression,13,0.2347,1442893.0,628585.0,0.05
